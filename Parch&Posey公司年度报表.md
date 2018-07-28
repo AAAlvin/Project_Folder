@@ -4,7 +4,7 @@
 
 [报表地址](https://public.tableau.com/profile/.7572#!/vizhome/_24280/West?publish=yes)
 
-![2018_07_28_17_07.40.bmp](https://i.loli.net/2018/07/28/5b5c32a6e2be5.bmp)
+![2018_07_28_17_07.40.bmp](https://i.loli.net/2018/07/28/5b5c353928d65.png)
 
 - KPI Dashboard从左往右：
   - 四大地区去年的销售总额
